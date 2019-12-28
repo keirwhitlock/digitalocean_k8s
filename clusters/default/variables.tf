@@ -3,7 +3,7 @@ variable "region" {
     default = "lon1"
 }
 variable "k8s_version" {
-  default = "1.15.2-do.0"
+  default = "1.16.2-do.1"
 }
 variable "worker_pool_name" {
   default = "worker-pool"
